@@ -4,8 +4,37 @@ body {
 }
 
 .section {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.quote {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0px;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  width: 60%;
+  margin: 0;
+}
+
+.quote-source {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  width: 60%;
+  margin: 0;
+}
+
+.carousel {
+  padding: 0px 0px 100px 0px;
 }
 
 .carousel .carousel-heading {
