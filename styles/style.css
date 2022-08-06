@@ -3,6 +3,14 @@ body {
   font-family: 'Calibri';
 }
 
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
 .section {
   padding-left: 100px;
   padding-right: 100px;
