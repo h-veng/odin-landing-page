@@ -8,6 +8,40 @@ body {
   padding-right: 100px;
 }
 
+.call-to-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.call-to-action .signup-bar {
+  background-color: #3882F6;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  width: 100%;
+}
+
+.signup-bar-text {
+  color: #F9FAF8;
+}
+
+.signup-bar-text h3 {
+  margin: 0px;
+}
+
+.signup-bar-text p {
+  margin: 0px;
+}
+
+.signup-bar .button-sign-up {
+  border-color: #FFFFFF;
+}
+
 .quote {
   background-color: #E5E7EB;
   color: #1F2937;
